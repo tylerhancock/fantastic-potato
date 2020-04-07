@@ -1,0 +1,43 @@
+body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+
+*, *::before, *::after { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'IBM Plex Sans', sans-serif; }
+
+@font-face { font-family: 'Sharp Grotesk Black'; src: url("../webfonts/SharpGroteskBlack.eot"); src: url("../webfonts/SharpGroteskBlack.eot?#iefix") format("embedded-opentype"), url("../webfonts/SharpGroteskBlack.woff2") format("woff2"), url("../webfonts/SharpGroteskBlack.woff") format("woff"), url("../webfonts/SharpGroteskBlack.ttf") format("truetype"); font-weight: bold; font-style: normal; }
+
+html { font-size: 16px; }
+
+@media screen and (min-width: 576px) { html { font-size: calc(16px + 6 * ((100vw - 320px) / 680)); } }
+
+@media screen and (min-width: 1000px) { html { font-size: 22px; } }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Sharp Grotesk Black'; }
+
+/* container fluid */
+.container-fluid { padding-left: 7.5%; padding-right: 7.5%; }
+
+/* hero */
+.bg-yellow { background: #fdb913; }
+
+.header { font-size: 3.5rem; text-transform: uppercase; line-height: 1; }
+
+.subheader { font-size: 2.5rem; text-transform: uppercase; line-height: 1; }
+
+@media screen and (min-width: 768px) { .header { font-size: 4.5rem; }
+  .subheader { font-size: 3.5rem; } }
+
+@media screen and (min-width: 992px) { .header { font-size: 5.5rem; }
+  .subheader { font-size: 4.5rem; } }
+
+.arrow { position: absolute; bottom: 0.8125rem; margin: auto auto; display: block; margin: 0 auto; }
+
+/* buttons */
+.btn { border-radius: 0; border: 0; }
+
+.btn-primary { box-shadow: inset 0 0 0 2px #000000; background: #ffffff; color: #000000; }
+
+.btn-primary:hover, .btn-primary:focus { box-shadow: inset 0 0 0 4px #000000; background: #ffffff; color: #000000; }
+
+/* links */
+.link, .link:hover, .link:focus { color: inherit; }
+
+/*# sourceMappingURL=main.css.map */
