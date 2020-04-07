@@ -1,4 +1,4 @@
-I"O#<section class="d-flex min-vh-100 align-items-center bg-yellow">
+I"Y$<section class="d-flex min-vh-100 align-items-center bg-yellow">
 	<div class="container-fluid">
 		<h1 class="header text-center">The<br />Response<br />Fund</h1>
 	</div>
@@ -17,9 +17,9 @@
 			</div>
 		</div>
 		<div class="row pt-4">
-			<div class="col-12 col-sm-10 col-lg-7 mx-auto">
-				<p class="lead text-center">The Response Fund is helping to provide funding for essential workers during the COVID-19 pandemic.</p>
-				<p class="lead text-center">Every cent donated here goes directly to the organizations below to ensure those who keep our lives moving forward receive the support they deserve.</p>
+			<div class="col-12 col-lg-11 col-xl-8 mx-auto">
+				<p class="lead text-center">The Response Fund is helping to provide funding for essential workers during the COVID-19 pandemic. We ensure every dollar donated goes a bit further.</p>
+				<p class="lead text-center">We’ve selected the organizations below because of their work towards coronavirus relief - tackling issues like food scarcity and providing care to our most vulnerable community members, including healthcare workers. 100% of funding proceeds are split equally among the organizations listed here, ensuring that your charitable contributions make the most impact.</p>
 				<div class="text-center">
 				  <a class="btn btn-primary btn-lg p-3" href="https://www.paypal.me/theresponsefund" target="_blank"><img class="mr-2" src="assets/images/paypal-logo.svg" width="35" alt="" />Donate with PayPal</a>
 				</div>
