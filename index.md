@@ -47,22 +47,22 @@ title: "The Response Fund"
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">City Harvest</h4>
-				<p>City Harvest is committed to rescuing and delivering food for the 2.5 million New Yorkers who were depending on us before the COVID-19 crisis, and the thousands more who need us now, as the devastating economic impact of this pandemic becomes a reality.</p>
+				<p>City Harvest is committed to rescuing and delivering food for the 2.5 million New Yorkers who were depending on them before the COVID-19 crisis, and the thousands more who need them now, as the devastating economic impact of this pandemic becomes a reality.</p>
 				<a class="btn btn-primary p-3" href="http://cityharvest.org/" target="_blank">City Harvest<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">Feeding America</h4>
-				<p>No one should go hungry during the COVID-19 pandemic. With school closures, job disruptions, and health risks, millions of Americans will turn to food banks for much-needed support. They can't do it alone and you can help.</p>
+				<p>Feeding America is working hard because no one should go hungry during the COVID-19 pandemic. With school closures, job disruptions, and health risks, millions of Americans will turn to food banks for much-needed support. They can't do it alone and you can help.</p>
 				<a class="btn btn-primary p-3" href="https://www.feedingamerica.org/" target="_blank">Feeding America<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">James Beard Foundation</h4>
-				<p>Our goal is to do our part along with federal, state, and local governments to provide for workers, sustain local business, reduce the financial impact on communities, and otherwise mitigate the severe economic consequences of this global pandemic.</p>
+				<p>James Beard Foundation works with federal, state, and local governments to provide for workers, sustain local business, reduce the financial impact on communities, and otherwise mitigate the severe economic consequences of this global pandemic.</p>
 				<a class="btn btn-primary p-3" href="https://www.jamesbeard.org/" target="_blank">James Beard Foundation<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">Humanity & Inclusion</h4>
-				<p>Many of our 2.1 million beneficiaries live in poverty and regularly experience exclusion. Our teams are working to protect and care for them--to ensure that no one is left on the sidelines of the COVID-19 crisis.</p>
+				<p>Many of Humanity & Inclusion's 2.1 million beneficiaries live in poverty and regularly experience exclusion. Their teams are working to protect and care for them- to ensure that no one is left on the sidelines of the COVID-19 crisis.</p>
 				<a class="btn btn-primary p-3" href="https://www.hi-us.org/" target="_blank">Humanity & Inclusion<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
@@ -72,12 +72,12 @@ title: "The Response Fund"
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">Doctors Without Borders</h4>
-				<p>Doctors Without Borders treats people where the need is greatest. We are an international medical humanitarian organisation. We help people threatened by violence, neglect, natural disasters, epidemics and health emergencies.</p>
+				<p>Doctors Without Borders treats people where the need is greatest. They are an international medical humanitarian organisation. They help people threatened by violence, neglect, natural disasters, epidemics and health emergencies.</p>
 				<a class="btn btn-primary p-3" href="https://www.doctorswithoutborders.org/" target="_blank">Doctors Without Borders<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
 				<h4 class="text-uppercase">Sweetgreen Outpost</h4>
-				<p>Sweetgreen partners with World Central Kitchen, José Andrés’ globally renowned not-for-profit devoted to providing meals to schools, senior centers, and vulnerable communities in the wake of natural disasters like COVID-19.</p>
+				<p>Sweetgreen has partnered with World Central Kitchen, José Andrés’ globally renowned not-for-profit devoted to providing meals to schools, senior centers, and vulnerable communities in the wake of natural disasters like COVID-19.</p>
 				<a class="btn btn-primary p-3" href="https://outpost.sweetgreen.com/" target="_blank">Sweetgreen Outpost<img class="ml-2" src="assets/images/link-arrow.svg" width="35" alt=""></a>
 			</div>
 			<div class="col-12 col-sm-10 col-md-8 col-xl-6 mx-auto py-4 text-center">
