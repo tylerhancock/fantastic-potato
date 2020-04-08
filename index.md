@@ -25,7 +25,7 @@ title: "The Response Fund"
 				<p class="text-center">The Response Fund is helping to provide funding for essential workers during the COVID-19 pandemic. We ensure every dollar donated goes a bit further.</p>
 				<p class="text-center">We’ve selected the organizations below because of their work towards coronavirus relief - tackling issues like food scarcity and providing care to our most vulnerable community members, including healthcare workers. 100% of funding proceeds are split equally among the organizations listed here, ensuring that your charitable contributions make the most impact.</p>
 				<div class="text-center">
-				  <a class="btn btn-primary btn-lg p-3" href="https://www.paypal.me/theresponsefund" target="_blank"><img class="mr-2" src="assets/images/paypal-logo.svg" width="35" alt="">Donate with PayPal</a>
+				  <a class="btn btn-primary btn-lg p-3" href="https://www.paypal.me/theresponsefund" target="_blank"><img class="mr-2" src="assets/images/paypal-logo.svg" width="35" alt="">Donate Now</a>
 				</div>
 			</div>
 		</div>
