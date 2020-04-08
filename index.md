@@ -121,8 +121,21 @@ title: "The Response Fund"
 	</div>
 </section>
 
-
-
+<section class="py-5 bg-yellow">
+	<div class="container-fluid py-4">
+		<div class="row pb-3">
+			<div class="col-12">
+				<h1 class="subheader text-center">You Can Help</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12 col-md-10 col-xl-8 mx-auto text-center">
+				<p>Do you have an organization that you would like to see on our list? Our recipient organizations are updated on a weekly basis, so send us your recommendations!</p>
+				<a class="btn btn-primary p-3" href="mailto:theresponsefund@gmail.com">Send us an email</a>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 
